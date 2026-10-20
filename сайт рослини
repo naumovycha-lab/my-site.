@@ -1,0 +1,54 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="uk">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<title>Новая страница 1</title>
+<meta name="Microsoft Theme" content="evrgreen 1011">
+</head>
+
+<body>
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td colspan="3">
+		<h1 align="center">«Рослини України»</h1>
+		</td>
+	</tr>
+	<tr>
+		<td width="34%">
+		<p align="center">«Людство живе в оточенні величезної кількості<br>
+		різноманітних рослин. Кожен із нас може по-різному характеризувати 
+		будь-яку<br>
+		рослину, але слід знати, що у природі нема нічого зайвого, тому кожна 
+		рослина<br>
+		може бути по-своєму корисною. Наші предки це добре розуміли, тому<br>
+		використовували у лікувальних цілях різні рослини».</td>
+		<td width="31%"><map name="FPMap0">
+		<area href="дерева.jpg" shape="rect" coords="87, 44, 114, 63">
+		<area href="барвінок.jpg" shape="rect" coords="194, 137, 219, 151">
+		<area href="калина.jpg" shape="rect" coords="246, 100, 281, 123">
+		</map>
+		<img border="0" src="карта.jpg" width="366" height="248" usemap="#FPMap0"></td>
+		<td width="35%">
+		<p align="center">«В українському фольклорі зустрічаються згадки про 
+		величезну кількість рослин, багато з яких мають лікувальні властивості. 
+		Проте лише деякі з них здобули особливу любов українського народу та 
+		стали символічними для національної культури українців. Лікарських 
+		рослин, які використовують у народній і професійній<br>
+		медицині, дуже багато.</p>
+		<ol>
+			<li>
+			<p align="center"><a href="сайт.htm">Травянисті</a></li>
+			<li>
+			<p align="center"><a href="Дерева%20Країни.htm">деревянисті</a></li>
+		</ol>
+		</td>
+	</tr>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+</body>
+
+</html>
